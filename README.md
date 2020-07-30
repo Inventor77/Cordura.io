@@ -1,5 +1,6 @@
 # CORDURA
-##### *TO BE SANE IN SPAIN, YOU'D SAY "CORDURA"*
+
+****TO BE SANE IN SPAIN, YOU'D SAY "CORDURA"****
 
 ## Inspiration
 
@@ -11,19 +12,20 @@ I was inspired by our reality because we all experience sadness, loneliness, dep
 
 Recently, people have been forced to confront the reality of death. Because we live in a culture of death denial, it's easier for us to ignore death, but we also ignore those who are dying.
 
-### The problem we chose to tackle:
+## The problem we chose to tackle
 
 Those who are nearing the end of their lives report feeling anxious, unprepared, and isolated. Logistical tasks are postponed until the last minute, and relationships are incomplete as loved ones avoid the dying. This is due to living in a death-denial culture as a result of industrialization and medical progress.
 
-### Target audience:
+## Target audience
 
 Those approaching the end of their lives, including chronically and/or terminally ill patients of all ages, as well as their family and friends
 Positive psychological capacities of individuals are emphasized in the project rather than mental illness. Individuals and society as a whole will benefit from this focus, and mental health services will be relieved of some of their burden.
-### What it does
 
-**CORDURA** is a web app that allows users nearing the end of their lives to easily complete their logistical last steps, plan fun activities they want to do before passing, and invite loved ones to join them. <span style="color:red">It draws attention to the elephant in the room while also addressing the pervasive problem of loneliness and death anxiety.</span>
+## What it does
 
-### How I built it
+**CORDURA** is a web app that allows users nearing the end of their lives to easily complete their logistical last steps, plan fun activities they want to do before passing, and invite loved ones to join them. It draws attention to the elephant in the room while also addressing the pervasive problem of loneliness and death anxiety.
+
+## How I built it
 
 
 
